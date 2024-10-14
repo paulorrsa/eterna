@@ -1,0 +1,33 @@
+[
+    {
+        "id":"1",
+        "icon":"MdWeb",
+        "servico":"Desenvolvimento de Sites",
+        "texto": "Criamos sites modernos, responsivos e otimizados para todos os dispositivos, garantindo que sua marca tenha uma presença digital profissional e eficaz."
+    },
+    {
+        "id":"2",
+        "icon":"HiOutlineChartBar",
+        "servico":"Marketing Digital",
+        "texto": "Aumente a visibilidade do seu negócio com estratégias de marketing digital personalizadas, incluindo campanhas de SEO, gestão de redes sociais e anúncios pagos."
+    },
+    {
+        "id":"3",
+        "icon":"HiOutlineWrenchScrewdriver",
+        "servico":"Manutenção e Suporte Técnico",
+        "texto": "Conte com nosso suporte técnico especializado para resolver problemas rapidamente e manter sua presença digital sempre ativa e eficiente."
+    },
+    {
+        "id":"4",
+        "icon":"HiOutlineDesktopComputer",
+        "servico":"Landing Pages",
+        "texto": "Desenvolvemos landing pages otimizadas para conversão, ajudando a capturar leads e gerar resultados reais para o seu negócio."
+    }
+    ,
+    {
+        "id":"5",
+        "icon":"HiOutlineMagnifyingGlass",
+        "servico":"Otimização de SEO",
+        "texto": "Melhore seu posicionamento nos mecanismos de busca com nossas técnicas de SEO, atraindo mais visitantes e aumentando a relevância do seu site."
+    }
+]
