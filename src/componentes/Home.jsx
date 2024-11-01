@@ -20,7 +20,7 @@ function Home() {
                     <Button texto={"Contato"} to={"/contato"} />
                 </div>
             </section>
-            <section className='bg-orange-600 h-[70dvh]'>
+            <section className='bg-[#ffc23d] h-[70dvh]'>
                 <h2 className='text-5xl text-center p-4'>O que estamos oferecendo</h2>
                 <Card/>
             </section>

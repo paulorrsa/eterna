@@ -22,7 +22,7 @@ function Card() {
                 dateServices.map((date, id) => {
                     const IconComponent = icons[date.icon];
                     return (
-                        <div key={id} className=' flex flex-col justify-start items-center h-80 w-60 bg-slate-600 m-4 p-4 rounded-lg shadow-md'>
+                        <div key={id} className=' flex flex-col justify-start items-center h-80 w-60 bg-[#190101] m-4 p-4 rounded-lg shadow-md text-white'>
                             <span className='text-4xl mb-4'><i> {IconComponent && <IconComponent />}</i></span>
                             <h3 className='font-bold mb-2'>{date.servico}</h3>
                             <p className='text-sm text-start'>{date.texto}</p>
